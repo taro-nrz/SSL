@@ -1,1 +1,3 @@
-
+- Compilador: GNU compiler
+- Version de compilador: 6.4.0
+- Version de C que compila: C11
