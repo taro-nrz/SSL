@@ -6,7 +6,7 @@ el desarrollo de un programa simple.
 resolución de los trabajos posteriores.
 - Creación de repositorio personal git.
 - Armado de equipo de trabajo.
-
+## Respuestas
 - Compilador: GNU compiler
 - Version de compilador: 6.4.0
 - Version de C que compila: C11
